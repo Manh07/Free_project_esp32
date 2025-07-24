@@ -13,7 +13,7 @@ A basic standalone web server using ESP32 and Arduino IDE. Controls two LEDs via
 - Web page: two buttons to toggle LED states
 
 ## 🚀 Setup
-1. Open `esp32_webserver_led.ino` in Arduino IDE
+1. Open file .ino in Arduino IDE
 2. Set your Wi‑Fi SSID and password
 3. Upload code to ESP32
 4. Check Serial Monitor → IP address
